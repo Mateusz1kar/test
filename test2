@@ -1,2 +1,3 @@
 test bezpieczeństwa
-pruba 2
+(git branch [name]), usuwania (git branch -D [name])
+ i przełączania się pomiędzy branch'ami (git checkout [branch_name]).
